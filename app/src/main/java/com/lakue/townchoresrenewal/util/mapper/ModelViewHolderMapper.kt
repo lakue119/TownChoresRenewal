@@ -4,9 +4,9 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import com.lakue.townchoresrenewal.util.provider.ResourcesProvider
 import com.lakue.townchoresrenewal.base.BaseViewModel
-import com.lakue.townchoresrenewal.model.CellType
-import com.lakue.townchoresrenewal.model.Model
-import com.lakue.townchoresrenewal.viewholder.ModelViewHolder
+import com.lakue.townchoresrenewal.base.CellType
+import com.lakue.townchoresrenewal.base.Model
+import com.lakue.townchoresrenewal.base.ModelViewHolder
 
 object ModelViewHolderMapper {
 

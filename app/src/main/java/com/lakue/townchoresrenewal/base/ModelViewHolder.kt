@@ -1,10 +1,8 @@
-package com.lakue.townchoresrenewal.viewholder
+package com.lakue.townchoresrenewal.base
 
 import androidx.recyclerview.widget.RecyclerView
 import androidx.viewbinding.ViewBinding
-import com.lakue.townchoresrenewal.base.BaseViewModel
 import com.lakue.townchoresrenewal.listener.AdapterListener
-import com.lakue.townchoresrenewal.model.Model
 import com.lakue.townchoresrenewal.util.provider.ResourcesProvider
 
 abstract class ModelViewHolder<M: Model>(

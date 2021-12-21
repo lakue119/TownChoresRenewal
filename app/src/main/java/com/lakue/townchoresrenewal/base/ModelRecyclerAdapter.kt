@@ -1,15 +1,11 @@
-package com.lakue.townchoresrenewal.adapter
+package com.lakue.townchoresrenewal.base
 
 import android.view.ViewGroup
 import androidx.recyclerview.widget.ListAdapter
 import com.lakue.townchoresrenewal.util.mapper.ModelViewHolderMapper
 import com.lakue.townchoresrenewal.util.provider.DefaultResourcesProvider
-import com.lakue.townchoresrenewal.base.BaseViewModel
 import com.lakue.townchoresrenewal.listener.AdapterListener
-import com.lakue.townchoresrenewal.model.CellType
-import com.lakue.townchoresrenewal.model.Model
 import com.lakue.townchoresrenewal.util.provider.ResourcesProvider
-import com.lakue.townchoresrenewal.viewholder.ModelViewHolder
 import com.lakue.townchoresrenewal.NCApplication
 
 class ModelRecyclerAdapter<M : Model, VM: BaseViewModel>(

@@ -1,6 +1,5 @@
-package com.lakue.townchoresrenewal.model
+package com.lakue.townchoresrenewal.base
 
 enum class CellType {
-
     RESTAURANT_CELL
 }

@@ -1,6 +1,6 @@
 package com.lakue.townchoresrenewal.util.event
 
-import com.lakue.townchoresrenewal.MainTabMenu
+import com.lakue.townchoresrenewal.ui.main.MainTabMenu
 import kotlinx.coroutines.flow.MutableSharedFlow
 import kotlinx.coroutines.flow.asSharedFlow
 

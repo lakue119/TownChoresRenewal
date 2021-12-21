@@ -1,4 +1,4 @@
-package com.lakue.townchoresrenewal.model
+package com.lakue.townchoresrenewal.base
 
 import android.annotation.SuppressLint
 import androidx.annotation.NonNull
